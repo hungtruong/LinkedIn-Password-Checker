@@ -1,0 +1,3 @@
+Just a quick script I wrote to check if your password is in the list of leaked LinkedIn passwords from 06/06/2012. It could probably be more efficient or whatever but hey, I'm at work right now.
+
+Usage: clone the repo and run 'python linkedin.py' and type in your password (it's not recorded or shown, check the source code if you want).
